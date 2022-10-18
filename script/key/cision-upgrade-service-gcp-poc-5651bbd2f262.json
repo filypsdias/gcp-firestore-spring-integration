@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cision-upgrade-service-gcp-poc",
+  "private_key_id": "5651bbd2f26265115ad68c8165e067749d3a747b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCpAbPTpv2bQ1/M\ndd7vGVRteb4k0TQSLFfhnMVfsIowNgrfIWzxcfxONEMPINvQFQSaNovwtQGCd5n8\n0qGv4VdUm6fJyxFVoYbSf/uIsrtgPNtYDE1u7STJoZX3oa5tChx1TlNodTev+uWs\negxrk5I/1YTCZBGG872v1bNYPMXP2ZyquD91kuqdfWHcYS/KFpC/tKgfKPer+Phn\n8GIwKcNaHMVdAFOoxzsLkK3WW6y00KE/9yHwt3ur1Bkeu2rdoBdiCRauT60ce0u5\nHZ3mFbcZMqhhiIvf0Yb0YGvpL3FjlDO+e6rFTe+d2JWB6gJh1zWAsDb6bAUQwL4p\nL46a6pX5AgMBAAECggEAC3lvnZuVVVDGNMn96ErWdhZRaAuCFwfGsa0ko2IHh81r\ngImy7VOZVy/qK6FF+0MqDFROvPl1EEgRft5IFvpcJQTqZ+NvGlq8nhcNW1MTMK4B\nEGHJchIMsNnVJjpmbsXEd9xpAksPDFYi+MpShI1A3S+gc1g67mgnBUSjiAacQYe+\n7x2UlQ+cXgf70Yg7ZsUkFzsKc6O/6qo0qcWSyXCNrhSlxHP/aLMetoRoED8q6QYw\nL5PjV4r9AfQhby58djwTSD4nkz5I3iKvrKWHvhAEukVPU32tyhknSdy/X5Jml239\nHSheP1wuQbQ+AMUhPWBSUFMhYawA/GOQDJIOPMNhLwKBgQDfqrnBFM08t6/EOjFX\nYcCDEmY3yj7xKkhSXTBc6lSiHejB5vtjjE+CPu3xi+KGJ6POntF0bnmYvT2z/Y/y\nIDchcL9z93sIhNFQrSiKGEtHYEO7cUkpQYh5H0f3Uwn2KmxJ4B5bLFDh6vP0Lb76\nGND3LrF7v11WTSV5ST40hhhitwKBgQDBcCgqg2WZx/rncxAtJ+UfAJSBYVvasu68\n/+QmH8+29gy55bUWgRCuuRErH1Z6G/+7fDwI2U0hVOA/QP2x1Ilow2Dyk/kG881u\n0NuJ1Kaw1bopKOs5jSwQKWGu79sUazTT2mymO0TSNva2gDQB103G12RiEEIcB0Ot\nHqZAZw9czwKBgQDQowPFPS85nSrjA1l1ZmTanzYkgo72DXgLBIyRj7DEzNuKzHjh\nYkfkeekhMVhrxdxCZ9mAH3Fj7dr54+P7etuSYQbmGQt2ZdaOyAeR0ZmfCggEeGdD\nibLRMUHDTn1zWB1NSDdo2szUAIPx2R5VUwLSIIdEpLxfPXVgTtcszY0/vwKBgGgf\nhC9mLTF6+O7O+/0ihW2LtWRzUKtHN8UahOeUpg2ZIj6KjFCBxsYWLkylALqYCa8U\n74ff2GnBsze5NxYbDqAK00ugJSL95y3oVNQ7WELFuQBg20VOXVKRw9gTmjzCfFwx\nLdzI+IGjPmf8WIJJL7+Bv7IdiEhoDKDKZ7kxAI73AoGBAL0P926QkwrQfl4YV4P/\n1S+WXD98d+Jkzw5ubhk3dj0kvugA2Qv/s/hCTPuozlQjRhBYq23jkNhK+IFa12zy\nkkPIDLTadVo6MLAHY/I1DSU0Ft8HJi/WqhU2nj/OXMPkcqRTbBr09f6uXDUZJHU4\nHbx+JP+yqMm4DmH0xmjvI1ro\n-----END PRIVATE KEY-----\n",
+  "client_email": "cision-firestore-demo@cision-upgrade-service-gcp-poc.iam.gserviceaccount.com",
+  "client_id": "105687535933120003717",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cision-firestore-demo%40cision-upgrade-service-gcp-poc.iam.gserviceaccount.com"
+}
